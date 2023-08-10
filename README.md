@@ -1,2 +1,2 @@
 # Cat-vs-Dog-Image-Classifier-using-CNN
-"Explore our GitHub repo for an advanced Dog vs. Cat Image Classification project. Our CNN model ensures accurate category prediction, pushing the boundaries of image recognition. Join us in shaping the future of AI-driven classification. #AI #ImageClassification #CNN
+Discover an advanced Image Classification endeavor focused on Dogs and Cats. Our project employs a cutting-edge Convolutional Neural Network (CNN) model, renowned for its unparalleled prowess in image recognition. Dive into a world where precision meets innovation, as our robust architecture excels in accurately categorizing images as 'Cat' or 'Dog,' setting new standards in classification performance
